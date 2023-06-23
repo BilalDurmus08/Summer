@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f28fe481-2b39-467d-b48f-21b3bfe454f6" name="Changes" comment="today">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/asd.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RbEFIjLYebHgSi9jg1izT0VBz8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +37,62 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.Main (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.A_1CreatingThread_ThreadClass_RunnableInterface.Main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.A_1CreatingThread_ThreadClass_RunnableInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.Main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.Main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.Main (1)" />
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687510520953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="today">
+      <created>1687513595972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687513595972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
