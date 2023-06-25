@@ -41,55 +41,69 @@
       <recent name="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="ThreadSafe (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.ThreadSafe" />
-      <module name="Summer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="ThreadSafe (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.ThreadSafe" />
-      <module name="Summer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="ThreadSafe (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.ThreadSafe" />
-      <module name="Summer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main">
     <configuration name="ThreadSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.ThreadSafe" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.B_Synchronization_JoinMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="U_17MultiThreadingAndConcurrency.D_MultipleThread_ExecutorService.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.D_MultipleThread_ExecutorService.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.D_MultipleThread_ExecutorService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="U_17MultiThreadingAndConcurrency.E_ArrayBlockingQueue_Producer_Consumer.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.E_ArrayBlockingQueue_Producer_Consumer.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.E_ArrayBlockingQueue_Producer_Consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" />
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" />
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.D_MultipleThread_ExecutorService.main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.ThreadSafe" />
-        <item itemvalue="Application.ThreadSafe (1)" />
-        <item itemvalue="Application.ThreadSafe (5)" />
-        <item itemvalue="Application.ThreadSafe (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687517281859</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="today">
+      <created>1687602854017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687602854017</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
