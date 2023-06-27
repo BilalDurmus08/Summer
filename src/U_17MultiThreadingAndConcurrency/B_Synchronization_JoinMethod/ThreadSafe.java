@@ -45,7 +45,7 @@ public class ThreadSafe {
 
 
     public static void main(String[] args) {
-        ThreadSafe threadSafe = new ThreadSafe();   //We can cot use the method that is not a static variable.
+        ThreadSafe threadSafe = new ThreadSafe();   //We can cot use the method that is not ReentrantLockUsing static variable.
         threadSafe.ThreadRun();                     //That why we created the new ThreadSafe for the reach ThreadRun Method
 
     }

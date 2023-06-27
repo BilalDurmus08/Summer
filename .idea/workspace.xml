@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f28fe481-2b39-467d-b48f-21b3bfe454f6" name="Changes" comment="today">
+    <list default="true" id="f28fe481-2b39-467d-b48f-21b3bfe454f6" name="Changes" comment="It was exhausted">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/B_Synchronization_JoinMethod/ThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/B_Synchronization_JoinMethod/ThreadSafe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +42,13 @@
       <recent name="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main (2)">
-    <configuration name="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.main" />
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.E_MP_ArrayBlockingQueue_Producer_Consumer.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="U_17MultiThreadingAndConcurrency.F_Wait_Notify_Methods.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.F_Wait_Notify_Methods.main" />
+    <configuration name="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.F_Wait_Notify_Methods.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.main" />
+    <configuration name="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,25 +86,11 @@
       </method>
     </configuration>
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.main" />
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.main" />
-      <module name="Summer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +100,67 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.main" />
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.G_MP_WaitNotify_ProducerConsumer.main" />
-        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.F_Wait_Notify_Methods.main" />
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (2)" />
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687687980356</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="It was exhausted">
+      <created>1687775966196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687775966196</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +253,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="today" />
-    <option name="LAST_COMMIT_MESSAGE" value="today" />
+    <MESSAGE value="It was exhausted" />
+    <option name="LAST_COMMIT_MESSAGE" value="It was exhausted" />
   </component>
 </project>
