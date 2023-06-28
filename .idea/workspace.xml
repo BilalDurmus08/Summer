@@ -41,21 +41,7 @@
       <recent name="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main (1)">
-    <configuration name="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
-      <module name="Summer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main">
     <configuration name="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
       <module name="Summer" />
@@ -70,12 +56,26 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+    <configuration name="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" />
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main (1)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (2)" />
-        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687877358490</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="It was exhausted">
+      <created>1687885468582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687885468582</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
