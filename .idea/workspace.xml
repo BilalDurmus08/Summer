@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f28fe481-2b39-467d-b48f-21b3bfe454f6" name="Changes" comment="It was exhausted">
+    <list default="true" id="f28fe481-2b39-467d-b48f-21b3bfe454f6" name="Changes" comment="It was exhausted.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/A_1CreatingThread_ThreadClass_RunnableInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/A_1CreatingThread_ThreadClass_RunnableInterface/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,24 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Hp/IdeaProjects/Summer/src"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\IdeaProjects\Summer\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="U_17MultiThreadingAndConcurrency.A_2CreatingThread_ThreadClass_RunnableInterface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main">
-    <configuration name="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+  <component name="RunManager" selected="Application.U_17MultiThreadingAndConcurrency.M_MP_CopyingMP3_With_Threads.main">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.L_InterruptingThread.Example1" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.L_InterruptingThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +61,12 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" />
+    <configuration name="Example2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.L_InterruptingThread.Example2" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.L_InterruptingThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.L_InterruptingThread.Example2" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.I_DeadLockProblems.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.L_InterruptingThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +89,12 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+    <configuration name="U_17MultiThreadingAndConcurrency.M_MP_CopyingMP3_With_Threads.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.M_MP_CopyingMP3_With_Threads.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.M_MP_CopyingMP3_With_Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.main" />
+      <option name="MAIN_CLASS_NAME" value="U_17MultiThreadingAndConcurrency.K_Callable_Future_Interface.main" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.H_ReentrantLockCondition_AwaitSignal_Methods.*" />
+          <option name="PATTERN" value="U_17MultiThreadingAndConcurrency.K_Callable_Future_Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,10 +175,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main" />
-        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.I_DeadLockProblems.main (1)" />
-        <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.U_17MultiThreadingAndConcurrency.M_MP_CopyingMP3_With_Threads.main" />
+        <item itemvalue="Application.Example2 (1)" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -250,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687885468582</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="It was exhausted.">
+      <created>1687974969099</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687974969099</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +279,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="today" />
     <MESSAGE value="It was exhausted" />
-    <option name="LAST_COMMIT_MESSAGE" value="It was exhausted" />
+    <MESSAGE value="It was exhausted." />
+    <option name="LAST_COMMIT_MESSAGE" value="It was exhausted." />
   </component>
 </project>
