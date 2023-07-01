@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f28fe481-2b39-467d-b48f-21b3bfe454f6" name="Changes" comment="It was exhausted.">
+    <list default="true" id="f28fe481-2b39-467d-b48f-21b3bfe454f6" name="Changes" comment="This project is over.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/A_1CreatingThread_ThreadClass_RunnableInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/A_1CreatingThread_ThreadClass_RunnableInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U_17MultiThreadingAndConcurrency/asd.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -31,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Hp/IdeaProjects/Summer/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/IdeaProjects/Summer/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hp\IdeaProjects\Summer\src" />
@@ -262,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687974969099</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="This project is over.">
+      <created>1688137095741</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688137095741</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +288,7 @@
     <MESSAGE value="today" />
     <MESSAGE value="It was exhausted" />
     <MESSAGE value="It was exhausted." />
-    <option name="LAST_COMMIT_MESSAGE" value="It was exhausted." />
+    <MESSAGE value="This project is over." />
+    <option name="LAST_COMMIT_MESSAGE" value="This project is over." />
   </component>
 </project>
