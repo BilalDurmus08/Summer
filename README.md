@@ -1,1 +1,1 @@
-![Image Alt text](images/Atkılı_ben.jpg)
+![Deneme ben](images/Atkılı_ben.jpg)
